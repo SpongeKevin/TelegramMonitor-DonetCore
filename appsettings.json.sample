@@ -1,0 +1,13 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*",
+  "BotConfig": {
+    "Token": "0000000000:AAAA_BBBBCCCCDD_EEEFFFGGGHHHIIIJJJ"
+  }
+}
